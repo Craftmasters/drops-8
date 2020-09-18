@@ -1,7 +1,10 @@
 <?php
 
 /**
- * @file
+ * @file 
+ * 
+ * Updated here
+ * 
  * The PHP page that serves all page requests on a Drupal installation.
  *
  * All Drupal code is released under the GNU General Public License.
