@@ -3,7 +3,9 @@
 /**
  * @file 
  * 
- * Updated here
+ * Updated here 
+ * 
+ * And another update
  * 
  * The PHP page that serves all page requests on a Drupal installation.
  *
